@@ -1,0 +1,86 @@
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\bin\Debug\netcoreapp2.1\Business.dll
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\bin\Debug\netcoreapp2.1\Models.dll
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\bin\Debug\netcoreapp2.1\Persistence.dll
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.csprojAssemblyReference.cache
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.RazorAssemblyInfo.cache
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.RazorAssemblyInfo.cs
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.AssemblyInfoInputs.cache
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.AssemblyInfo.cs
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.TagHelpers.input.cache
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.TagHelpers.output.cache
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.RazorCoreGenerate.cache
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.RazorTargetAssemblyInfo.cache
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.RazorTargetAssemblyInfo.cs
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\bin\Debug\netcoreapp2.1\Pre-Crime.deps.json
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\bin\Debug\netcoreapp2.1\Pre-Crime.runtimeconfig.json
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\bin\Debug\netcoreapp2.1\Pre-Crime.runtimeconfig.dev.json
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\bin\Debug\netcoreapp2.1\Pre-Crime.dll
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\bin\Debug\netcoreapp2.1\Pre-Crime.pdb
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\bin\Debug\netcoreapp2.1\Pre-Crime.Views.dll
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\bin\Debug\netcoreapp2.1\Pre-Crime.Views.pdb
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\bin\Debug\netcoreapp2.1\Business.pdb
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\bin\Debug\netcoreapp2.1\Models.pdb
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\bin\Debug\netcoreapp2.1\Persistence.pdb
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.Views.pdb
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.csproj.CopyComplete
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.dll
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.pdb
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Index.g.cshtml.cs
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Create.g.cshtml.cs
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Edit.g.cshtml.cs
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Delete.g.cshtml.cs
+C:\Users\bruno\Source\Repos\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Details.g.cshtml.cs
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\bin\Debug\netcoreapp2.1\Pre-Crime.deps.json
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\bin\Debug\netcoreapp2.1\Pre-Crime.runtimeconfig.json
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\bin\Debug\netcoreapp2.1\Pre-Crime.runtimeconfig.dev.json
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\bin\Debug\netcoreapp2.1\Pre-Crime.dll
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\bin\Debug\netcoreapp2.1\Pre-Crime.pdb
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\bin\Debug\netcoreapp2.1\Pre-Crime.Views.dll
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\bin\Debug\netcoreapp2.1\Pre-Crime.Views.pdb
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\bin\Debug\netcoreapp2.1\Business.dll
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\bin\Debug\netcoreapp2.1\Models.dll
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\bin\Debug\netcoreapp2.1\Persistence.dll
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\bin\Debug\netcoreapp2.1\Business.pdb
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\bin\Debug\netcoreapp2.1\Models.pdb
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\bin\Debug\netcoreapp2.1\Persistence.pdb
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.csprojAssemblyReference.cache
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.csproj.CoreCompileInputs.cache
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.RazorAssemblyInfo.cache
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.RazorAssemblyInfo.cs
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.AssemblyInfoInputs.cache
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.AssemblyInfo.cs
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.TagHelpers.input.cache
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.TagHelpers.output.cache
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.RazorCoreGenerate.cache
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Create.g.cshtml.cs
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Delete.g.cshtml.cs
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Details.g.cshtml.cs
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Edit.g.cshtml.cs
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\Usuario\Index.g.cshtml.cs
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.RazorTargetAssemblyInfo.cache
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.RazorTargetAssemblyInfo.cs
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.Views.pdb
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.csproj.CopyComplete
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.dll
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10- Código\SystemaPre-Crime\Pre-Crime\obj\Debug\netcoreapp2.1\Pre-Crime.pdb
