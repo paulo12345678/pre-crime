@@ -63,7 +63,7 @@ using Pre_Crime.Models;
             WriteLiteral("\r\n<h2>Lista de Usuários</h2>\r\n\r\n<p>\r\n    ");
             EndContext();
             BeginContext(138, 44, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "996408f7bdaf4b5db2beced5360a6a01", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "7d48591360a747068c63fcc19a1ee39f", async() => {
                 BeginContext(161, 17, true);
                 WriteLiteral("Adicionar um novo");
                 EndContext();
