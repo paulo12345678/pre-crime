@@ -56,8 +56,8 @@ namespace Pre_Crime
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Index}/{action=Index}/{id?}");
-            });
+                    template: "{controller=Usuario}/{action=Index}/{id?}");
+        });
         }
     }
 }

@@ -23,6 +23,8 @@ namespace Model.Models
             get { return id; }
             set { id = value; }
         }
+        [Required(ErrorMessage = "Email é obrigatório")]
+        [Display(Name =" Campo de email ")]
         public string Email
         {
             get { return email; }
@@ -38,11 +40,17 @@ namespace Model.Models
             get { return senha; }
             set { senha = value; }
         }
+        [Required(ErrorMessage = "Estado é obrigatório")]
+        [MaxLength(20, ErrorMessage = " Este campo só permite 20 caracteris")]
+        [MinLength(2, ErrorMessage = " Este campo deve posuir no mínimo 2 caracteris")]
+        [Display(Name = " Campo do estado ")]
         public string Estado
         {
             get { return estado; }
             set { estado = value; }
         }
+        [Required(ErrorMessage = "Cidade é obrigatório")]
+        [Display(Name =" Campo da cidade ")]
         public string Cidade
         {
             get { return cidade; }

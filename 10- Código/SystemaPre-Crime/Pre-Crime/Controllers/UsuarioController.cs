@@ -23,31 +23,28 @@ namespace Pre_Crime.Controllers
             return View(model);
         }
 
-        // GET: Usuario/Details/5
         public IActionResult Details(int? id)
         {
-            Usuario u = gu.ObterById(id);
+            Usuario Obj_usuario = gu.ObterById(id);
             if(id == null)
-                return View(u);
+                return View(Obj_usuario);
 
-            return View(u);
+            return View(Obj_usuario);
         }
 
-        // GET: Usuario/Create
         public IActionResult Create()
         {
             return View();
         }
 
-        // POST: Usuario/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Create(Usuario u)
+        public IActionResult Create(Usuario Obj_usuario)
         {
             try
             {
                 if (ModelState.IsValid)
-                    gu.Adicionar(u);
+                    gu.Adicionar(Obj_usuario);
 
                 return RedirectToAction(nameof(Index));
             }
@@ -61,25 +58,25 @@ namespace Pre_Crime.Controllers
         {
               if (id.HasValue)
             {
-                Usuario u = gu.ObterById(id);
-                if (u != null)
-                    return View(u);
+                Usuario Obj_usuario = gu.ObterById(id);
+                if (Obj_usuario != null)
+                    return View(Obj_usuario);
             }
             return RedirectToAction("Index");
         }
         
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Edit(Usuario u)
+        public IActionResult Edit(Usuario Obj_usuario)
         {
             try
             {
                 if (ModelState.IsValid)
                 {
-                    gu.Editar(u);
+                    gu.Editar(Obj_usuario);
                     return RedirectToAction("Index");
                 }
-                return View(u);
+                return View(Obj_usuario);
             }
             catch
             {
@@ -92,9 +89,9 @@ namespace Pre_Crime.Controllers
         {
             if (id.HasValue)
             {
-                Usuario u = gu.ObterById(id);
-                if (u != null)
-                    return View(u);
+                Usuario Obj_usuario = gu.ObterById(id);
+                if (Obj_usuario != null)
+                    return View(Obj_usuario);
             }
             return RedirectToAction("Index");
         }

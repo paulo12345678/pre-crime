@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Collections.Generic;
 using Model.Models;
 
 namespace Persistence.Persistence
@@ -14,16 +12,16 @@ namespace Persistence.Persistence
             usuario = new List<Usuario>();
         }
 
-        public void Adicionar(Usuario u)
+        public void Adicionar(Usuario Obj_usuario)
         {
-            u.Id = usuario.Count + 1;
-            usuario.Add(u);
+            Obj_usuario.Id = usuario.Count + 1;
+            usuario.Add(Obj_usuario);
         }
 
-        public void Editar(Usuario u)
+        public void Editar(Usuario Obj_usuario)
         {
-            int idx = usuario.FindIndex(e => e.Id == u.Id);
-            usuario[idx] = u;
+            int idx = usuario.FindIndex(e => e.Id == Obj_usuario.Id);
+            usuario[idx] = Obj_usuario;
         }
 
         public void Remover(int? id)
@@ -37,10 +35,10 @@ namespace Persistence.Persistence
             return usuario;
         }
 
-        public Usuario Detalhes(Usuario u)
+        public Usuario Detalhes(Usuario Obj_usuario)
         {
 
-            return u;
+            return Obj_usuario;
         }
 
         public Usuario ObterId(int? id)

@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 using Model.Models;
 using Persistence.Persistence;
 
@@ -15,13 +13,13 @@ namespace Business.Business
             persistencia = new UsuarioPersistencia();
         }
 
-        public void Adicionar(Usuario u)
+        public void Adicionar(Usuario Obj_usuario)
         {
-                persistencia.Adicionar(u);
+                persistencia.Adicionar(Obj_usuario);
         }
     
 
-        public void Editar(Usuario u) => persistencia.Editar(u);
+        public void Editar(Usuario Obj_usuario) => persistencia.Editar(Obj_usuario);
 
         public void Remover(int? id) => persistencia.Remover(id);
 
