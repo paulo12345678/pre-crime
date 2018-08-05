@@ -1,0 +1,14 @@
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Business\bin\Debug\netcoreapp2.0\Business.deps.json
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Business\bin\Debug\netcoreapp2.0\Business.dll
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Business\bin\Debug\netcoreapp2.0\Business.pdb
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Business\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Business\bin\Debug\netcoreapp2.0\Persistence.dll
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Business\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Business\bin\Debug\netcoreapp2.0\Persistence.pdb
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Business\obj\Debug\netcoreapp2.0\Business.csprojResolveAssemblyReference.cache
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Business\obj\Debug\netcoreapp2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfoInputs.cache
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Business\obj\Debug\netcoreapp2.0\Business.AssemblyInfo.cs
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Business\obj\Debug\netcoreapp2.0\Business.csproj.CopyComplete
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Business\obj\Debug\netcoreapp2.0\Business.dll
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Business\obj\Debug\netcoreapp2.0\Business.pdb

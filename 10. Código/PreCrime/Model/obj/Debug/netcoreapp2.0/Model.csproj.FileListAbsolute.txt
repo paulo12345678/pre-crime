@@ -1,0 +1,9 @@
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Model\bin\Debug\netcoreapp2.0\Model.deps.json
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Model\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Model\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Model\obj\Debug\netcoreapp2.0\Model.csprojResolveAssemblyReference.cache
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Model\obj\Debug\netcoreapp2.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Model\obj\Debug\netcoreapp2.0\Model.AssemblyInfoInputs.cache
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Model\obj\Debug\netcoreapp2.0\Model.AssemblyInfo.cs
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Model\obj\Debug\netcoreapp2.0\Model.dll
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Model\obj\Debug\netcoreapp2.0\Model.pdb

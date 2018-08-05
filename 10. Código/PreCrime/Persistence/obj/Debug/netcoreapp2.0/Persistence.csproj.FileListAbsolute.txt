@@ -1,0 +1,12 @@
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Persistence\bin\Debug\netcoreapp2.0\Persistence.deps.json
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Persistence\bin\Debug\netcoreapp2.0\Persistence.dll
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Persistence\bin\Debug\netcoreapp2.0\Persistence.pdb
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Persistence\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Persistence\bin\Debug\netcoreapp2.0\Model.pdb
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Persistence\obj\Debug\netcoreapp2.0\Persistence.csprojResolveAssemblyReference.cache
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Persistence\obj\Debug\netcoreapp2.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfo.cs
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Persistence\obj\Debug\netcoreapp2.0\Persistence.csproj.CopyComplete
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Persistence\obj\Debug\netcoreapp2.0\Persistence.dll
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Persistence\obj\Debug\netcoreapp2.0\Persistence.pdb
