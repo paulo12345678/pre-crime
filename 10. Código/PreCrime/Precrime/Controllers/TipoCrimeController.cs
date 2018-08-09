@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Business.Business;
@@ -16,7 +14,7 @@ namespace Precrime.Controllers
 
         public TipoCrimeController() => gtp = new GerenciarTipoCrime();
 
-        public ActionResult Index()
+        public IActionResult Index()
         {
             List<TipoCrime> model = gtp.ObterTodos();
             if (model.Count == 0)
@@ -25,7 +23,7 @@ namespace Precrime.Controllers
         }
 
         // GET: TipoCrime/Details/5
-        public ActionResult Details(int? id)
+        public IActionResult Details(int?id)
         {
             TipoCrime Tipo = gtp.ObterById(id);
             if (id == null)
@@ -35,22 +33,22 @@ namespace Precrime.Controllers
         }
 
         // GET: TipoCrime/Create
-        public ActionResult Create()
+        public IActionResult Create()
         {
             return View();
         }
 
         // POST: TipoCrime/Create
         [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Create(TipoCrime tipo)
+        //[ValidateAntiForgeryToken]
+        public IActionResult Create(TipoCrime tipo)
         {
             try
             {
                 if (ModelState.IsValid)
                     gtp.Adicionar(tipo);
-
-                return RedirectToAction(nameof(Index));
+                    return RedirectToAction(nameof(Index));
+                
             }
             catch
             {
@@ -59,13 +57,13 @@ namespace Precrime.Controllers
         }
 
         // GET: TipoCrime/Edit/5
-        public ActionResult Edit(int? id)
+        public IActionResult Edit(int? id)
         {
             if (id.HasValue)
             {
                 TipoCrime tipo = gtp.ObterById(id);
-                if (tipo != null) 
-                return View(tipo);
+                if (tipo != null)
+                    return View(tipo);
             }
             return RedirectToAction("Index");
         }
@@ -73,7 +71,7 @@ namespace Precrime.Controllers
         // POST: TipoCrime/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(TipoCrime tipo )
+        public IActionResult Edit(TipoCrime tipo )
         {
             try
             {
@@ -91,7 +89,7 @@ namespace Precrime.Controllers
         }
 
         // GET: TipoCrime/Delete/5
-        public ActionResult Delete(int? id)
+        public IActionResult Delete(int? id)
         {
             if (id.HasValue)
             {
@@ -105,7 +103,7 @@ namespace Precrime.Controllers
         // POST: TipoCrime/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Delete(IFormCollection form)
+        public IActionResult Delete(IFormCollection form)
         {
             try
             {

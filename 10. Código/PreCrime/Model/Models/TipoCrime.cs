@@ -11,29 +11,23 @@ namespace Model.Models
     {
         private int id;
         private string tipo;
-        private Ocorrencia ocorrencia;
 
         public TipoCrime()
         {
         }
-
+        [Key]
         public int Id
         {
             get { return id; }
             set { id = value; }
         }
-
+        [Required(ErrorMessage = "Tipo Do Crime Obrigatorio")]
+        [Display(Name = " Tipo Do Crime ")]
         public string Tipo
         {
             get { return tipo; }
             set { tipo = value; }
         }
 
-        public Ocorrencia Ocorrencias
-        {
-            get { return ocorrencia; }
-            set { ocorrencia = value; }
-        }
-
-}
+    }
 }

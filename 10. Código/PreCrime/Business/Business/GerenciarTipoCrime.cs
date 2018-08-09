@@ -10,15 +10,16 @@ namespace Business.Business
     {
         public TipoCrimePersistencia persistencia;
 
-        public GerenciarTipoCrime ()
+        public GerenciarTipoCrime()
         {
             persistencia = new TipoCrimePersistencia();
         }
 
-        public void Adicionar (TipoCrime Crime  )
+        public void Adicionar (TipoCrime Crime)
         {
             persistencia.Adicionar(Crime);
         }
+
         public void Editar(TipoCrime Crime) => persistencia.Editar(Crime);
         public void Remove(int? id) => persistencia.Remover(id);
         public List<TipoCrime> ObterTodos()
