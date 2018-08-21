@@ -25,10 +25,10 @@ namespace Precrime.Controllers
         // GET: TipoCrime/Details/5
         public IActionResult Details(int?id)
         {
-            TipoCrime Tipo = gtp.ObterById(id);
+            TipoCrime obj_tipo = gtp.ObterById(id);
             if (id == null)
-                return View(Tipo);
-            return View(Tipo);
+                return View(obj_tipo);
+            return View(obj_tipo);
             
         }
 
@@ -41,13 +41,13 @@ namespace Precrime.Controllers
         // POST: TipoCrime/Create
         [HttpPost]
         //[ValidateAntiForgeryToken]
-        public IActionResult Create(TipoCrime tipo)
+        public IActionResult Create(TipoCrime Obj_tipo)
         {
             try
             {
                 if (ModelState.IsValid)
-                    gtp.Adicionar(tipo);
-                    return RedirectToAction(nameof(Index));
+                    gtp.Adicionar(Obj_tipo);
+                    return RedirectToAction("Index");
                 
             }
             catch
@@ -61,9 +61,9 @@ namespace Precrime.Controllers
         {
             if (id.HasValue)
             {
-                TipoCrime tipo = gtp.ObterById(id);
-                if (tipo != null)
-                    return View(tipo);
+                TipoCrime Obj_tipo = gtp.ObterById(id);
+                if (Obj_tipo != null)
+                    return View(Obj_tipo);
             }
             return RedirectToAction("Index");
         }
@@ -71,16 +71,16 @@ namespace Precrime.Controllers
         // POST: TipoCrime/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Edit(TipoCrime tipo )
+        public IActionResult Edit(TipoCrime Obj_tipo)
         {
             try
             {
                 if (ModelState.IsValid)
                 {
-                    gtp.Editar(tipo);
+                    gtp.Editar(Obj_tipo);
                     return RedirectToAction("Index");
                 }
-                return View(tipo);
+                return View(Obj_tipo);
             }
             catch
             {
@@ -93,14 +93,14 @@ namespace Precrime.Controllers
         {
             if (id.HasValue)
             {
-                TipoCrime tipo = gtp.ObterById(id);
-                if (tipo != null)
-                    return View(tipo);
+                TipoCrime Obj_tipo= gtp.ObterById(id);
+                if (Obj_tipo != null)
+                    return View(Obj_tipo);
             }
             return RedirectToAction("Index");
         }
 
-        // POST: TipoCrime/Delete/5
+        // POST: Usuario/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Delete(IFormCollection form)
@@ -109,7 +109,7 @@ namespace Precrime.Controllers
             {
                 if (ModelState.IsValid)
                     gtp.Remove(int.Parse(form["id"]));
-                return RedirectToAction(("Index"));
+                return RedirectToAction("Index");
             }
             catch
             {
