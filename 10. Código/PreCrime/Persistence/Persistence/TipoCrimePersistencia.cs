@@ -36,11 +36,6 @@ namespace Persistence.Persistence
             return crime;
         }
 
-        public TipoCrime Detalhes(TipoCrime Obj_tipo)
-        {
-            return Obj_tipo;
-        }
-
         public TipoCrime ObterId(int? id)
         {
             return (id.HasValue) ? crime.Find(p => p.Id == id): null;

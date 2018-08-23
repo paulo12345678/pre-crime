@@ -6,9 +6,6 @@ using System.Linq;
 using System.Text;
 using Model.Models;
 
-/**
- * 
- */
 namespace Model.Models
 {
     public class Configuracoes
@@ -22,25 +19,32 @@ namespace Model.Models
         {
         }
         [Key]
-        private int Id
+        public int Id
         {
             get { return id; }
             set { id = value; }
         }
-
-        private string Estado
+        [Required(ErrorMessage = "Estado é obrigatório")]
+        [MaxLength(20, ErrorMessage = " Este campo só permite 20 caracteres")]
+        [MinLength(2, ErrorMessage = " Este campo deve ter no mínimo 2 caracteres")]
+        [Display(Name = " Nome do estado ")]
+        public string Estado
         {
             get { return estado; }
             set { estado = value; }
         }
-
-        private string Cidade
+        [Required(ErrorMessage = "Cidade é obrigatório")]
+        [Display(Name = " Nome da Cidade ")]
+        public string Cidade
         {
             get { return cidade; }
             set { cidade = value; }
         }
-
-        private Usuario Usuario
+        [Required(ErrorMessage = "Usuario é obrigatório")]
+        [MaxLength(50, ErrorMessage = " Este campo só permite 20 caracteres")]
+        [MinLength(10, ErrorMessage = " Este campo deve posuir no mínimo 2 caracteres")]
+        [Display(Name = " Campo Usuario ")]
+        public Usuario Usuario
         {
             get { return usuario; }
             set { usuario = value; }
