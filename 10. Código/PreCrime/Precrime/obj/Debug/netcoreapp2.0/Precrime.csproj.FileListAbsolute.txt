@@ -1,6 +1,3 @@
-C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Precrime\bin\Debug\netcoreapp2.0\Business.dll
-C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Precrime\bin\Debug\netcoreapp2.0\Model.dll
-C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Precrime\bin\Debug\netcoreapp2.0\Persistence.dll
 C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Precrime\obj\Debug\netcoreapp2.0\Precrime.csprojResolveAssemblyReference.cache
 C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Precrime\obj\Debug\netcoreapp2.0\Precrime.csproj.CoreCompileInputs.cache
 C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Precrime\obj\Debug\netcoreapp2.0\Precrime.AssemblyInfoInputs.cache
@@ -10,6 +7,9 @@ C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Precrime\bin\Debug
 C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Precrime\bin\Debug\netcoreapp2.0\Precrime.runtimeconfig.dev.json
 C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Precrime\bin\Debug\netcoreapp2.0\Precrime.dll
 C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Precrime\bin\Debug\netcoreapp2.0\Precrime.pdb
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Precrime\bin\Debug\netcoreapp2.0\Business.dll
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Precrime\bin\Debug\netcoreapp2.0\Model.dll
+C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Precrime\bin\Debug\netcoreapp2.0\Persistence.dll
 C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Precrime\bin\Debug\netcoreapp2.0\Business.pdb
 C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Precrime\bin\Debug\netcoreapp2.0\Model.pdb
 C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Precrime\bin\Debug\netcoreapp2.0\Persistence.pdb

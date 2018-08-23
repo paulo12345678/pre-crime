@@ -1,6 +1,7 @@
 
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 
@@ -17,20 +18,22 @@ namespace Model.Models
         public Localizacao()
         {
         }
-
-        private int Id
+        [Key]
+        public int Id
         {
             get { return id; }
             set { id = value; }
         }
-
-        private int Latitude
+        [Required(ErrorMessage = "Latitude  Obrigatorio")]
+        [Display(Name = " Latitude ")]
+        public int Latitude
         {
             get { return latitude; }
             set { latitude = value; }
         }
-
-        private int Longitude
+        [Required(ErrorMessage = "Longitude Obrigatorio")]
+        [Display(Name = " Longitude ")]
+        public int Longitude
         {
             get { return longitude; }
             set { longitude = value; }

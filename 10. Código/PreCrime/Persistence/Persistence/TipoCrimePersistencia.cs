@@ -13,16 +13,16 @@ namespace Persistence.Persistence
             crime = new List<TipoCrime>();
         }
 
-        public void Adicionar(TipoCrime Tipo )
+        public void Adicionar(TipoCrime Obj_tipo)
         {
-            Tipo.Id = crime.Count + 1;
-            crime.Add(Tipo);
+            Obj_tipo.Id = crime.Count + 1;
+            crime.Add(Obj_tipo);
         }
 
-        public void Editar(TipoCrime Tipo2)
+        public void Editar(TipoCrime Obj_tipo)
         {
-            int idxs = crime.FindIndex(e => e.Id == Tipo2.Id);
-            crime[idxs] = Tipo2;
+            int idxs = crime.FindIndex(e => e.Id == Obj_tipo.Id);
+            crime[idxs] = Obj_tipo;
         }
 
         public void Remover (int? id)
@@ -34,11 +34,6 @@ namespace Persistence.Persistence
         public List<TipoCrime> ObterTodos()
         {
             return crime;
-        }
-
-        public TipoCrime Detalhes(TipoCrime Tipo3)
-        {
-            return Tipo3;
         }
 
         public TipoCrime ObterId(int? id)
