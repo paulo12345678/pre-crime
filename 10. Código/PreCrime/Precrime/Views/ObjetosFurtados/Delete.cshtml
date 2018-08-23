@@ -1,0 +1,27 @@
+﻿@model Model.Models.ObjetosFurtados
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Realmente deseja apagar?</h3>
+<div>
+    <h4>Objetos Furtados</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Descricao)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Descricao)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        @Html.HiddenFor(model => model.Id)
+        <input type="submit" value="Apagar" class="btn btn-default" /> |
+        <a asp-action="Lista">Voltar</a>
+    </form>
+</div>

@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\paulo vitor\\.nuget\\packages\\": {},
+    "C:\\Users\\bruno\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\paulo vitor\\Documents\\pre-crime\\10. Código\\PreCrime\\Model\\Model.csproj",
+      "projectUniqueName": "E:\\UFS\\UFS2018.1\\2018.1\\Engenharia 2\\pre-crime\\10. Código\\PreCrime\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "C:\\Users\\paulo vitor\\Documents\\pre-crime\\10. Código\\PreCrime\\Model\\Model.csproj",
-      "packagesPath": "C:\\Users\\paulo vitor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\paulo vitor\\Documents\\pre-crime\\10. Código\\PreCrime\\Model\\obj\\",
+      "projectPath": "E:\\UFS\\UFS2018.1\\2018.1\\Engenharia 2\\pre-crime\\10. Código\\PreCrime\\Model\\Model.csproj",
+      "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
+      "outputPath": "E:\\UFS\\UFS2018.1\\2018.1\\Engenharia 2\\pre-crime\\10. Código\\PreCrime\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\paulo vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

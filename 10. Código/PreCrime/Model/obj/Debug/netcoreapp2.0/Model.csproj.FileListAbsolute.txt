@@ -7,3 +7,12 @@ C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Model\obj\Debug\ne
 C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Model\obj\Debug\netcoreapp2.0\Model.AssemblyInfo.cs
 C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Model\obj\Debug\netcoreapp2.0\Model.dll
 C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Model\obj\Debug\netcoreapp2.0\Model.pdb
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10. Código\PreCrime\Model\bin\Debug\netcoreapp2.0\Model.deps.json
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10. Código\PreCrime\Model\bin\Debug\netcoreapp2.0\Model.dll
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10. Código\PreCrime\Model\bin\Debug\netcoreapp2.0\Model.pdb
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10. Código\PreCrime\Model\obj\Debug\netcoreapp2.0\Model.csprojAssemblyReference.cache
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10. Código\PreCrime\Model\obj\Debug\netcoreapp2.0\Model.csproj.CoreCompileInputs.cache
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10. Código\PreCrime\Model\obj\Debug\netcoreapp2.0\Model.AssemblyInfoInputs.cache
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10. Código\PreCrime\Model\obj\Debug\netcoreapp2.0\Model.AssemblyInfo.cs
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10. Código\PreCrime\Model\obj\Debug\netcoreapp2.0\Model.dll
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10. Código\PreCrime\Model\obj\Debug\netcoreapp2.0\Model.pdb

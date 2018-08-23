@@ -35,12 +35,6 @@ namespace Persistence.Persistence
             return usuario;
         }
 
-        public Usuario Detalhes(Usuario Obj_usuario)
-        {
-
-            return Obj_usuario;
-        }
-
         public Usuario ObterId(int? id)
         {
             return (id.HasValue) ? usuario.Find(p => p.Id == id) : null;

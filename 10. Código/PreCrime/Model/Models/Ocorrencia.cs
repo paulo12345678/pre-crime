@@ -4,6 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System;
 
 namespace Model.Models
 {
@@ -28,50 +29,60 @@ namespace Model.Models
         {
         }
 
-        private int Id
+        public int Id
         {
             get { return id; }
             set { id = value; }
         }
-
-        private System.DateTime Data
+        [Required(ErrorMessage = "Data do crime é obrigatório")]
+        [Display(Name = " Campo Data ")]
+        [DisplayFormat(ApplyFormatInEditMode = true, DataFormatString = "{0:dd-MM-yyyy}")]
+        public System.DateTime Data
         {
+
             get { return data; }
             set { data = value; }
         }
-
-        private int Latitude
+        [Required(ErrorMessage = "Informe a Latitude")]
+        [Display(Name = " Campo Latitude ")]
+        public int Latitude
         {
             get { return latitude; }
             set { latitude = value; }
         }
 
-        private int Longitud
+        [Required(ErrorMessage = "Informe a Longitude")]
+        [Display(Name = " Campo Longitude ")]
+        public int Longitude
         {
             get { return longitude; }
             set { longitude = value; }
         }
 
-        private string Descricao
+        [Required(ErrorMessage = "Campo Descrição Vazio")]
+        [Display(Name = " Campo Descrição ")]
+        public string Descricao
         {
             get { return descricao; }
             set { descricao = value; }
         }
-
-        private System.DateTime Hora
+        [Required(ErrorMessage = "Data do crime é obrigatório")]
+        [Display(Name = " Campo Data ")]
+        [DisplayFormat(ApplyFormatInEditMode = true, DataFormatString = "{0:hh\\:mm}")]
+        public System.DateTime Hora
         {
             get { return hora; }
             set { hora = value; }
         }
-
-
-        private double Prejuizo
+        [Required(ErrorMessage = "Informe o Prejuízo")]
+        [DisplayFormat(DataFormatString = "{0:0,0.00}")]
+        public double Prejuizo
         {
             get { return prejuizo; }
             set { prejuizo = value; }
         }
 
-        private Usuario Usuario
+        public Usuario Usuario
         {
             get { return usuario; }
             set { usuario = value; }

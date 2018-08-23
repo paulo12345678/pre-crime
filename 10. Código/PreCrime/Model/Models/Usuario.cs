@@ -17,7 +17,7 @@ namespace Model.Models
         public string cidade;
         public List<Ocorrencia> ocorrencia;
         public List<Configuracoes> configuracao;
-
+        [Key]
         public int Id
         {
             get { return id; }
@@ -41,16 +41,16 @@ namespace Model.Models
             set { senha = value; }
         }
         [Required(ErrorMessage = "Estado é obrigatório")]
-        [MaxLength(20, ErrorMessage = " Este campo só permite 20 caracteris")]
-        [MinLength(2, ErrorMessage = " Este campo deve posuir no mínimo 2 caracteris")]
-        [Display(Name = " Campo do estado ")]
+        [MaxLength(20, ErrorMessage = "Este campo só permite 20 caracteris")]
+        [MinLength(2, ErrorMessage = "Este campo deve posuir no mínimo 2 caracteris")]
+        [Display(Name = "Campo do estado")]
         public string Estado
         {
             get { return estado; }
             set { estado = value; }
         }
         [Required(ErrorMessage = "Cidade é obrigatório")]
-        [Display(Name =" Campo da cidade ")]
+        [Display(Name ="Campo da cidade")]
         public string Cidade
         {
             get { return cidade; }

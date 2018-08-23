@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Precrime</title>
+    <title>@ViewData["Title"] - Pre_crime</title>
 
     <environment include="Development">
         <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
@@ -30,18 +30,20 @@
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
-                    <li><a asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
-                    <li><a asp-area="" asp-controller="Home" asp-action="About">About</a></li>
-                    <li><a asp-area="" asp-controller="Home" asp-action="Contact">Contact</a></li>
+                    <li><a asp-area="" asp-controller="Usuario" asp-action="Index">Lista</a></li>
+                    <li><a asp-area="" asp-controller="ObjetosFurtados" asp-action="Index">Objetos Furtados</a></li>
+                    <li><a asp-area="" asp-controller="TipoCrime" asp-action="Index">Tipo Crime</a></li>
+                    <li><a asp-area="" asp-controller="Ocorrencia" asp-action="Index">Ocorrências</a></li>
+                    <li><a asp-area="" asp-controller="Estatisticas" asp-action="Index">Estatisticas</a></li>
                 </ul>
             </div>
         </div>
-    </nav>
+    </nav>,
     <div class="container body-content">
         @RenderBody()
         <hr />
         <footer>
-            <p>&copy; 2018 - Precrime</p>
+            <p>&copy; 2018 - Pre_crime</p>
         </footer>
     </div>
 

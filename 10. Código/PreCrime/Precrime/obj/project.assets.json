@@ -6952,7 +6952,7 @@
       ]
     },
     "Microsoft.Extensions.PlatformAbstractions/1.1.0": {
-      "sha512": "H6ZsQzxYw/6k2DfEQRXdC+vQ6obd6Uba3uGJrnJ2vG4PRXjQZ7seB13JdCfE72abp8E6Fk3gGgDzfJiLZi5ZpQ==",
+      "sha512": "UMlN++q5qqzQ2HH+uOrKxN5fmBXMQDhrYkSaPJxhmyzfJaFPirrVr1raim/Ocq1psAZoB9+7JSAf0GDAX35wUg==",
       "type": "package",
       "path": "microsoft.extensions.platformabstractions/1.1.0",
       "files": [
@@ -13178,23 +13178,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\paulo vitor\\.nuget\\packages\\": {},
+    "C:\\Users\\bruno\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\paulo vitor\\Documents\\pre-crime\\10. Código\\PreCrime\\Precrime\\Precrime.csproj",
+      "projectUniqueName": "E:\\UFS\\UFS2018.1\\2018.1\\Engenharia 2\\pre-crime\\10. Código\\PreCrime\\Precrime\\Precrime.csproj",
       "projectName": "Precrime",
-      "projectPath": "C:\\Users\\paulo vitor\\Documents\\pre-crime\\10. Código\\PreCrime\\Precrime\\Precrime.csproj",
-      "packagesPath": "C:\\Users\\paulo vitor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\paulo vitor\\Documents\\pre-crime\\10. Código\\PreCrime\\Precrime\\obj\\",
+      "projectPath": "E:\\UFS\\UFS2018.1\\2018.1\\Engenharia 2\\pre-crime\\10. Código\\PreCrime\\Precrime\\Precrime.csproj",
+      "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
+      "outputPath": "E:\\UFS\\UFS2018.1\\2018.1\\Engenharia 2\\pre-crime\\10. Código\\PreCrime\\Precrime\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\paulo vitor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -13207,11 +13207,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\paulo vitor\\Documents\\pre-crime\\10. Código\\PreCrime\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\paulo vitor\\Documents\\pre-crime\\10. Código\\PreCrime\\Business\\Business.csproj"
+            "E:\\UFS\\UFS2018.1\\2018.1\\Engenharia 2\\pre-crime\\10. Código\\PreCrime\\Business\\Business.csproj": {
+              "projectPath": "E:\\UFS\\UFS2018.1\\2018.1\\Engenharia 2\\pre-crime\\10. Código\\PreCrime\\Business\\Business.csproj"
             },
-            "C:\\Users\\paulo vitor\\Documents\\pre-crime\\10. Código\\PreCrime\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\paulo vitor\\Documents\\pre-crime\\10. Código\\PreCrime\\Model\\Model.csproj"
+            "E:\\UFS\\UFS2018.1\\2018.1\\Engenharia 2\\pre-crime\\10. Código\\PreCrime\\Model\\Model.csproj": {
+              "projectPath": "E:\\UFS\\UFS2018.1\\2018.1\\Engenharia 2\\pre-crime\\10. Código\\PreCrime\\Model\\Model.csproj"
             }
           }
         }

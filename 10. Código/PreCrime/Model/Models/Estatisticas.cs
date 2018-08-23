@@ -1,6 +1,7 @@
 
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 
@@ -19,25 +20,29 @@ namespace Model.Models
         {
         }
 
-        private int Id
+        public int Id
         {
             get { return id; }
             set { id = value; }
         }
-
-        private double Crime
+        [Required(ErrorMessage = "Informe o percentual sem o %")]
+        [Display(Name = " Percentual de Crime ")]
+        public double Crime
         {
             get { return percentualCrime; }
             set { percentualCrime = value; }
         }
 
-        private double Horario
+        [Required(ErrorMessage = "Informe Apenas a hora")]
+        [Range(0, 23)]
+        public double Horario
         {
             get { return percentualHora; }
             set { percentualHora = value; }
         }
-
-        private int Quantidade
+        [Required(ErrorMessage = "Informe a quantidade de crimes")]
+        [Display(Name = " Quantidade de Crime ")]
+        public int Quantidade
         {
             get { return quantidade; }
             set { quantidade = value; }

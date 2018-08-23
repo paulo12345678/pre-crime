@@ -10,3 +10,15 @@ C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Persistence\obj\De
 C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Persistence\obj\Debug\netcoreapp2.0\Persistence.csproj.CopyComplete
 C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Persistence\obj\Debug\netcoreapp2.0\Persistence.dll
 C:\Users\paulo vitor\Documents\pre-crime\10. Código\PreCrime\Persistence\obj\Debug\netcoreapp2.0\Persistence.pdb
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10. Código\PreCrime\Persistence\bin\Debug\netcoreapp2.0\Persistence.deps.json
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10. Código\PreCrime\Persistence\bin\Debug\netcoreapp2.0\Persistence.dll
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10. Código\PreCrime\Persistence\bin\Debug\netcoreapp2.0\Persistence.pdb
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10. Código\PreCrime\Persistence\bin\Debug\netcoreapp2.0\Model.dll
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10. Código\PreCrime\Persistence\bin\Debug\netcoreapp2.0\Model.pdb
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10. Código\PreCrime\Persistence\obj\Debug\netcoreapp2.0\Persistence.csprojAssemblyReference.cache
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10. Código\PreCrime\Persistence\obj\Debug\netcoreapp2.0\Persistence.csproj.CoreCompileInputs.cache
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10. Código\PreCrime\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfoInputs.cache
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10. Código\PreCrime\Persistence\obj\Debug\netcoreapp2.0\Persistence.AssemblyInfo.cs
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10. Código\PreCrime\Persistence\obj\Debug\netcoreapp2.0\Persistence.csproj.CopyComplete
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10. Código\PreCrime\Persistence\obj\Debug\netcoreapp2.0\Persistence.dll
+E:\UFS\UFS2018.1\2018.1\Engenharia 2\pre-crime\10. Código\PreCrime\Persistence\obj\Debug\netcoreapp2.0\Persistence.pdb

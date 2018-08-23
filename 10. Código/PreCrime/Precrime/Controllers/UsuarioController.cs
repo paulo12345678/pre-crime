@@ -11,9 +11,9 @@ namespace Pre_Crime.Controllers
 {
     public class UsuarioController : Controller
     {
-        private GerenciarUsuario gu;
+        private GerenciadoraUsuario gu;
 
-        public UsuarioController() => gu = new GerenciarUsuario();
+        public UsuarioController() => gu = new GerenciadoraUsuario();
 
         public IActionResult Index()
         {
