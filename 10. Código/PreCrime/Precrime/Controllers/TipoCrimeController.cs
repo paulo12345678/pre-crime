@@ -40,25 +40,15 @@ namespace Precrime.Controllers
 
         // POST: TipoCrime/Create
         [HttpPost]
-<<<<<<< HEAD
         [ValidateAntiForgeryToken]
         public IActionResult Create(TipoCrime tipoCrime)
-=======
-        //[ValidateAntiForgeryToken]
-        public IActionResult Create(TipoCrime Obj_tipo)
->>>>>>> 8c8035fab5a3b6bd5f151a153211575f3a043d95
         {
             try
             {
                 if (ModelState.IsValid)
-<<<<<<< HEAD
                     gtp.Adicionar(tipoCrime);
-                    return RedirectToAction(nameof(Index));
-=======
-                    gtp.Adicionar(Obj_tipo);
-                    return RedirectToAction("Index");
->>>>>>> 8c8035fab5a3b6bd5f151a153211575f3a043d95
-                
+                return RedirectToAction(nameof(Index));
+
             }
             catch
             {

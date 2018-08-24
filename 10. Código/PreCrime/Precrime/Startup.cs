@@ -43,7 +43,7 @@ namespace Precrime
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=TipoCrime}/{action=Index}/{id?}");
+                    template: "{controller=Home}/{action=Index}/{id?}");
             });
         }
     }
